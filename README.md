@@ -12,4 +12,4 @@
 
 ## Random stats
 
-[![yamashi's github stats](https://github-readme-stats.vercel.app/api?username=maximegmd&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![maximegmd's github stats](https://github-readme-stats.vercel.app/api?username=maximegmd&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
