@@ -8,8 +8,8 @@
 
 * 🩺 I am also finishing my medical doctor's degree and plan on doing research on computer science applied to medicine to take advantage of my knowledge in both areas.
 
-* 🎮 Currently working on [modding Cyberpunk 77](https://github.com/yamashi/CyberEngineTweaks)
+* 🎮 Currently working on [modding Cyberpunk 77](https://github.com/maximegmd/CyberEngineTweaks)
 
 ## Random stats
 
-[![yamashi's github stats](https://github-readme-stats.vercel.app/api?username=yamashi&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![yamashi's github stats](https://github-readme-stats.vercel.app/api?username=maximegmd&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
