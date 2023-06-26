@@ -1,7 +1,7 @@
 ## Hi there, I am Max 👋
 
 [![Contact](https://img.shields.io/badge/Contact-&#128231;-blue.svg)](mailto:yamashi@live.com)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=yamashi.yamashi)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=maximegmd.maximegmd)
 
 
 * 💻 I am a senior software engineer (MSc) working mostly on video game related projects, I offer consulting for game studios and worked for [Bethesda Softworks](https://bethesda.net/), [ZeniMax Online Studios](https://www.zenimaxonline.com/) and indie studios. 
