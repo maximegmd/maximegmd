@@ -4,7 +4,7 @@
 
 * 🩺 I am a medical doctor currently doing a PhD in generative AI for clinical patient care.
 
-* 💻 I am also a senior software engineer (MSc) and have worked mostly on video game, I notably worked for [Bethesda Softworks](https://bethesda.net/), [ZeniMax Online Studios](https://www.zenimaxonline.com/) and indie studios. 
+* 💻 I am also a senior software engineer (MSc) and have worked mostly on video games, I notably worked for [Bethesda Softworks](https://bethesda.net/), [ZeniMax Online Studios](https://www.zenimaxonline.com/) and indie studios. 
 
 
 ## Random stats
